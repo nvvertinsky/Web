@@ -140,6 +140,10 @@
 ### Очереди:
   - Kafka
 
+### Внешние кеши:
+  - Redis
+  - Memcache
+
 ### БД OLTP:
   - Oracle
   - PostgreSQL
